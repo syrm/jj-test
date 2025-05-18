@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello world 6 from git2")
+	fmt.Println("Hello world 6 from git-2")
 	fmt.Println("Bye")
 }
