@@ -6,8 +6,3 @@ the last line ?
 not at all
 first line
 add some text
-first line
-toto
-first o line
-bouh
-add some text
